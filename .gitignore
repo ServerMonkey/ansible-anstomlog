@@ -90,3 +90,7 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# IDE and releases
+/.idea/
+/releases/
+/.directory
