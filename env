@@ -1,0 +1,12 @@
+MAINTAINER_NAME="Bodo Endres"
+MAINTAINER_EMAIL=dev@muspekaren.se
+NAME=ansible-anstomlog
+DES_1="Ansible Stdout Compact Logger"
+DES_2="Much more compact and readable Ansible stdout logger"
+DES_3="Two versions: 'anstomlog' and a more compact 'anstomlog-tiny'"
+VERSION_MAJOR=0
+VERSION_MINOR=2
+VERSION_PATCH=0
+VERSION_BUILD=2
+SECTION=net
+DEPENDS="ansible, python3"
